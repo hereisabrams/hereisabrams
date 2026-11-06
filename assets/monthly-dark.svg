@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Last 12 months. Dec 723, Jan 846, Feb 841, Mar 857, Apr 885, May 709, Jun 596, Jul 386, Aug 995, Sep 875, Oct 2843, Nov 739">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+  .title { font-size: 16px; font-weight: 600; fill: #e6edf3; }
+  .sub { font-size: 12px; fill: #9198a1; }
+  .tick { font-size: 11px; fill: #6e7681; }
+  .val { font-size: 12px; font-weight: 600; fill: #e6edf3; }
+  .lbl { font-size: 12px; fill: #9198a1; }
+  .big { font-size: 28px; font-weight: 700; fill: #e6edf3; letter-spacing: -0.5px; }
+  .grow { transform-box: fill-box; transform-origin: bottom; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+  .growx { transform-box: fill-box; transform-origin: left; animation: growx .9s cubic-bezier(.2,.8,.2,1) both; }
+  .fade { animation: fade .6s ease-out both; }
+  @keyframes grow { from { transform: scaleY(0); } }
+  @keyframes growx { from { transform: scaleX(0); } }
+  @keyframes fade { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .grow, .growx, .fade { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="299" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text class="title" x="24" y="36">Last 12 months</text>
+<text class="sub" x="24" y="56">11,684 contributions · ~36 per active day</text>
+<line x1="52" x2="416" y1="264" y2="264" stroke="#21262d"/><text class="tick" x="44" y="268" text-anchor="end">0</text><line x1="52" x2="416" y1="174" y2="174" stroke="#21262d"/><text class="tick" x="44" y="178" text-anchor="end">2,500</text><line x1="52" x2="416" y1="84" y2="84" stroke="#21262d"/><text class="tick" x="44" y="88" text-anchor="end">5,000</text>
+<path class="grow" style="animation-delay:0s" d="M57.24666666666667,264V241.972Q57.24666666666667,237.972 61.24666666666667,237.972H73.08666666666667Q77.08666666666667,237.972 77.08666666666667,241.972V264Z" fill="#3987e5"><title>Dec: 723</title></path>
+<text class="tick" x="67.16666666666667" y="286" text-anchor="middle">Dec</text>
+<path class="grow" style="animation-delay:0.06s" d="M87.58,264V237.544Q87.58,233.544 91.58,233.544H103.41999999999999Q107.41999999999999,233.544 107.41999999999999,237.544V264Z" fill="#3987e5"><title>Jan: 846</title></path>
+<text class="tick" x="97.5" y="286" text-anchor="middle">Jan</text>
+<path class="grow" style="animation-delay:0.12s" d="M117.91333333333333,264V237.724Q117.91333333333333,233.724 121.91333333333333,233.724H133.75333333333333Q137.75333333333333,233.724 137.75333333333333,237.724V264Z" fill="#3987e5"><title>Feb: 841</title></path>
+<text class="tick" x="127.83333333333333" y="286" text-anchor="middle">Feb</text>
+<path class="grow" style="animation-delay:0.18s" d="M148.24666666666667,264V237.148Q148.24666666666667,233.148 152.24666666666667,233.148H164.08666666666667Q168.08666666666667,233.148 168.08666666666667,237.148V264Z" fill="#3987e5"><title>Mar: 857</title></path>
+<text class="tick" x="158.16666666666666" y="286" text-anchor="middle">Mar</text>
+<path class="grow" style="animation-delay:0.24s" d="M178.57999999999998,264V236.14Q178.57999999999998,232.14 182.57999999999998,232.14H194.42Q198.42,232.14 198.42,236.14V264Z" fill="#3987e5"><title>Apr: 885</title></path>
+<text class="tick" x="188.49999999999997" y="286" text-anchor="middle">Apr</text>
+<path class="grow" style="animation-delay:0.3s" d="M208.91333333333333,264V242.476Q208.91333333333333,238.476 212.91333333333333,238.476H224.75333333333333Q228.75333333333333,238.476 228.75333333333333,242.476V264Z" fill="#3987e5"><title>May: 709</title></path>
+<text class="tick" x="218.83333333333331" y="286" text-anchor="middle">May</text>
+<path class="grow" style="animation-delay:0.36s" d="M239.24666666666667,264V246.544Q239.24666666666667,242.544 243.24666666666667,242.544H255.08666666666664Q259.08666666666664,242.544 259.08666666666664,246.544V264Z" fill="#3987e5"><title>Jun: 596</title></path>
+<text class="tick" x="249.16666666666666" y="286" text-anchor="middle">Jun</text>
+<path class="grow" style="animation-delay:0.42s" d="M269.58,264V254.10399999999998Q269.58,250.10399999999998 273.58,250.10399999999998H285.41999999999996Q289.41999999999996,250.10399999999998 289.41999999999996,254.10399999999998V264Z" fill="#3987e5"><title>Jul: 386</title></path>
+<text class="tick" x="279.5" y="286" text-anchor="middle">Jul</text>
+<path class="grow" style="animation-delay:0.48s" d="M299.9133333333333,264V232.18Q299.9133333333333,228.18 303.9133333333333,228.18H315.7533333333333Q319.7533333333333,228.18 319.7533333333333,232.18V264Z" fill="#3987e5"><title>Aug: 995</title></path>
+<text class="tick" x="309.8333333333333" y="286" text-anchor="middle">Aug</text>
+<path class="grow" style="animation-delay:0.54s" d="M330.24666666666667,264V236.5Q330.24666666666667,232.5 334.24666666666667,232.5H346.08666666666664Q350.08666666666664,232.5 350.08666666666664,236.5V264Z" fill="#3987e5"><title>Sep: 875</title></path>
+<text class="tick" x="340.1666666666667" y="286" text-anchor="middle">Sep</text>
+<path class="grow" style="animation-delay:0.6s" d="M360.58,264V165.652Q360.58,161.652 364.58,161.652H376.41999999999996Q380.41999999999996,161.652 380.41999999999996,165.652V264Z" fill="#3987e5"><title>Oct: 2,843</title></path>
+<text class="val fade" x="370.5" y="153.652" text-anchor="middle" style="animation-delay:1.1s">2,843</text><text class="tick" x="370.5" y="286" text-anchor="middle">Oct</text>
+<path class="grow" style="animation-delay:0.6599999999999999s" d="M390.9133333333333,264V241.39600000000002Q390.9133333333333,237.39600000000002 394.9133333333333,237.39600000000002H406.7533333333333Q410.7533333333333,237.39600000000002 410.7533333333333,241.39600000000002V264Z" fill="#3987e5"><title>Nov: 739</title></path>
+<text class="val fade" x="400.8333333333333" y="229.39600000000002" text-anchor="middle" style="animation-delay:1.16s">739</text><text class="tick" x="400.8333333333333" y="286" text-anchor="middle">Nov</text>
+</svg>

@@ -1,0 +1,199 @@
+{
+  "login": "hereisabrams",
+  "generatedAt": "2026-11-06T20:03:02.150Z",
+  "fullRun": true,
+  "memberSince": "2020-12-14",
+  "followers": 7,
+  "ownedRepos": 51,
+  "reposContributedTo": 22,
+  "mergedPullRequests": 3548,
+  "pullRequests": 3679,
+  "languages": [
+    {
+      "name": "TypeScript",
+      "share": 0.529658303882195
+    },
+    {
+      "name": "Python",
+      "share": 0.1305207284409583
+    },
+    {
+      "name": "CSS",
+      "share": 0.12724437108594688
+    },
+    {
+      "name": "HTML",
+      "share": 0.10189560565612131
+    },
+    {
+      "name": "JavaScript",
+      "share": 0.09677642258489712
+    },
+    {
+      "name": "C++",
+      "share": 0.004136613530331712
+    },
+    {
+      "name": "MDX",
+      "share": 0.0029628506408067453
+    },
+    {
+      "name": "Solidity",
+      "share": 0.0021756982174909296
+    },
+    {
+      "name": "Dockerfile",
+      "share": 0.0017149114651129151
+    },
+    {
+      "name": "C#",
+      "share": 0.001256326525119249
+    },
+    {
+      "name": "Shell",
+      "share": 0.0008120545916836942
+    },
+    {
+      "name": "Rust",
+      "share": 0.0003883069815603966
+    },
+    {
+      "name": "Vyper",
+      "share": 0.00021751318099241153
+    },
+    {
+      "name": "Procfile",
+      "share": 0.00013872777772858352
+    },
+    {
+      "name": "C",
+      "share": 0.00010156543905453311
+    }
+  ],
+  "allTime": 16341,
+  "yearly": [
+    {
+      "year": 2020,
+      "total": 1
+    },
+    {
+      "year": 2021,
+      "total": 30
+    },
+    {
+      "year": 2022,
+      "total": 728
+    },
+    {
+      "year": 2023,
+      "total": 447
+    },
+    {
+      "year": 2024,
+      "total": 1244
+    },
+    {
+      "year": 2025,
+      "total": 3319
+    },
+    {
+      "year": 2026,
+      "total": 10572
+    }
+  ],
+  "lastYearTotal": 11684,
+  "activeDays": 326,
+  "averagePerActiveDay": 36,
+  "busiestDay": {
+    "date": "2026-10-28",
+    "count": 333
+  },
+  "streaks": {
+    "longest": {
+      "length": 34,
+      "start": "2025-09-21",
+      "end": "2025-10-24"
+    },
+    "current": 12
+  },
+  "monthly": [
+    {
+      "month": "2025-12",
+      "total": 723
+    },
+    {
+      "month": "2026-01",
+      "total": 846
+    },
+    {
+      "month": "2026-02",
+      "total": 841
+    },
+    {
+      "month": "2026-03",
+      "total": 857
+    },
+    {
+      "month": "2026-04",
+      "total": 885
+    },
+    {
+      "month": "2026-05",
+      "total": 709
+    },
+    {
+      "month": "2026-06",
+      "total": 596
+    },
+    {
+      "month": "2026-07",
+      "total": 386
+    },
+    {
+      "month": "2026-08",
+      "total": 995
+    },
+    {
+      "month": "2026-09",
+      "total": 875
+    },
+    {
+      "month": "2026-10",
+      "total": 2843
+    },
+    {
+      "month": "2026-11",
+      "total": 739
+    }
+  ],
+  "weekday": [
+    {
+      "day": "Mon",
+      "total": 1900
+    },
+    {
+      "day": "Tue",
+      "total": 2571
+    },
+    {
+      "day": "Wed",
+      "total": 2362
+    },
+    {
+      "day": "Thu",
+      "total": 2133
+    },
+    {
+      "day": "Fri",
+      "total": 1960
+    },
+    {
+      "day": "Sat",
+      "total": 338
+    },
+    {
+      "day": "Sun",
+      "total": 420
+    }
+  ]
+}
