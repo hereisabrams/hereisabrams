@@ -1,76 +1,95 @@
 {
   "login": "hereisabrams",
-  "generatedAt": "2026-11-06T20:03:02.150Z",
+  "generatedAt": "2026-11-06T20:20:21.231Z",
   "fullRun": true,
   "memberSince": "2020-12-14",
   "followers": 7,
-  "ownedRepos": 51,
   "reposContributedTo": 22,
-  "mergedPullRequests": 3548,
-  "pullRequests": 3679,
+  "mergedPullRequests": 3550,
+  "pullRequests": 3683,
   "languages": [
     {
+      "name": "JavaScript",
+      "share": 0.5508488824455102
+    },
+    {
       "name": "TypeScript",
-      "share": 0.529658303882195
+      "share": 0.38500127167491577
     },
     {
       "name": "Python",
-      "share": 0.1305207284409583
+      "share": 0.029408916570359215
     },
     {
       "name": "CSS",
-      "share": 0.12724437108594688
+      "share": 0.024757091297302376
     },
     {
       "name": "HTML",
-      "share": 0.10189560565612131
-    },
-    {
-      "name": "JavaScript",
-      "share": 0.09677642258489712
-    },
-    {
-      "name": "C++",
-      "share": 0.004136613530331712
-    },
-    {
-      "name": "MDX",
-      "share": 0.0029628506408067453
-    },
-    {
-      "name": "Solidity",
-      "share": 0.0021756982174909296
-    },
-    {
-      "name": "Dockerfile",
-      "share": 0.0017149114651129151
-    },
-    {
-      "name": "C#",
-      "share": 0.001256326525119249
+      "share": 0.007221600531856716
     },
     {
       "name": "Shell",
-      "share": 0.0008120545916836942
+      "share": 0.0013602690724819602
+    },
+    {
+      "name": "Dockerfile",
+      "share": 0.00027597884676294965
+    },
+    {
+      "name": "Handlebars",
+      "share": 0.00021267773254380313
+    },
+    {
+      "name": "MDX",
+      "share": 0.00018973559532820062
+    },
+    {
+      "name": "C++",
+      "share": 0.00018091224228022868
+    },
+    {
+      "name": "Java",
+      "share": 0.00013334861930518988
+    },
+    {
+      "name": "Swift",
+      "share": 0.00012515491299233095
+    },
+    {
+      "name": "Solidity",
+      "share": 0.00009515282009431938
+    },
+    {
+      "name": "C#",
+      "share": 0.00005494466597589686
+    },
+    {
+      "name": "Kotlin",
+      "share": 0.0000507766550369218
+    },
+    {
+      "name": "Ruby",
+      "share": 0.000038451692491406884
     },
     {
       "name": "Rust",
-      "share": 0.0003883069815603966
-    },
-    {
-      "name": "Vyper",
-      "share": 0.00021751318099241153
+      "share": 0.000016982366424142484
     },
     {
       "name": "Procfile",
-      "share": 0.00013872777772858352
+      "share": 0.000012694760442918378
+    },
+    {
+      "name": "Vyper",
+      "share": 0.00000951280486086088
     },
     {
       "name": "C",
-      "share": 0.00010156543905453311
+      "share": 0.000005644693034203867
     }
   ],
-  "allTime": 16341,
+  "allTime": 16353,
   "yearly": [
     {
       "year": 2020,
@@ -98,10 +117,10 @@
     },
     {
       "year": 2026,
-      "total": 10572
+      "total": 10584
     }
   ],
-  "lastYearTotal": 11684,
+  "lastYearTotal": 11696,
   "activeDays": 326,
   "averagePerActiveDay": 36,
   "busiestDay": {
@@ -163,7 +182,7 @@
     },
     {
       "month": "2026-11",
-      "total": 739
+      "total": 751
     }
   ],
   "weekday": [
@@ -185,7 +204,7 @@
     },
     {
       "day": "Fri",
-      "total": 1960
+      "total": 1972
     },
     {
       "day": "Sat",

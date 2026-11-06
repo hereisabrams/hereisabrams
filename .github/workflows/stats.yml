@@ -1,4 +1,4 @@
-name: Refresh profile stats
+name: Refresh profile charts
 
 on:
   schedule:
@@ -9,23 +9,12 @@ permissions:
   contents: write
 
 jobs:
-  stats:
+  charts:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: hereisabrams/github-profile-charts@v1
         with:
-          node-version: 22
-      # STATS_TOKEN (optional, a personal token with repo scope) makes merged PRs and languages
-      # live too; without it the calendar charts refresh and the rest comes from data/snapshot.json.
-      - run: node scripts/generate.mjs
-        env:
-          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets data README.md
-          git diff --cached --quiet || git commit -m "chore: refresh profile stats"
-          git push
+          readme: README.md
+          stats-token: ${{ secrets.STATS_TOKEN }}
+          subtitles: '{"stats":"Public and private contributions, refreshed daily","yearly":"2026: the year sleep became optional","weekday":"Last 365 days · weekends exist, technically","languages":"Weighted by my commits per repo"}'

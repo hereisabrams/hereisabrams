@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-label="Languages. JavaScript: 55.1%, TypeScript: 38.5%, Python: 2.9%, CSS: 2.5%, HTML: 0.7%">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+  .title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+  .sub { font-size: 12px; fill: #59636e; }
+  .tick { font-size: 11px; fill: #818b98; }
+  .val { font-size: 12px; font-weight: 600; fill: #1f2328; }
+  .lbl { font-size: 12px; fill: #59636e; }
+  .big { font-size: 28px; font-weight: 700; fill: #1f2328; letter-spacing: -0.5px; }
+  .grow { transform-box: fill-box; transform-origin: bottom; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+  .growx { transform-box: fill-box; transform-origin: left; animation: growx .9s cubic-bezier(.2,.8,.2,1) both; }
+  .fade { animation: fade .6s ease-out both; }
+  @keyframes grow { from { transform: scaleY(0); } }
+  @keyframes growx { from { transform: scaleX(0); } }
+  @keyframes fade { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .grow, .growx, .fade { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="299" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text class="title" x="24" y="36">Languages</text>
+<text class="sub" x="24" y="56">Weighted by my commits per repo</text>
+<g class="growx"><path d="M28,84H235.52597085907593V100H28Q24,100 24,96V88Q24,84 28,84Z" fill="#2a78d6"><title>JavaScript: 55.1%</title></path><path d="M237.52597085907593,84H385.3664591822436V100H237.52597085907593V84Z" fill="#eb6834"><title>TypeScript: 38.5%</title></path><path d="M387.3664591822436,84H398.65948314526156V100H387.3664591822436V84Z" fill="#1baf7a"><title>Python: 2.9%</title></path><path d="M400.65948314526156,84H410.16620620342565V100H400.65948314526156V84Z" fill="#eda100"><title>CSS: 2.5%</title></path><path d="M412.16620620342565,84H410.93930080765864Q414.93930080765864,84 414.93930080765864,88V96Q414.93930080765864,100 410.93930080765864,100H412.16620620342565V84Z" fill="#e87ba4"><title>HTML: 0.7%</title></path></g>
+<g class="fade" style="animation-delay:0.30s"><rect x="24" y="126" width="10" height="10" rx="3" fill="#2a78d6"/><text class="lbl" x="42" y="136">JavaScript</text><text class="val" x="42" y="155">55.1%</text></g>
+<g class="fade" style="animation-delay:0.37s"><rect x="224" y="126" width="10" height="10" rx="3" fill="#eb6834"/><text class="lbl" x="242" y="136">TypeScript</text><text class="val" x="242" y="155">38.5%</text></g>
+<g class="fade" style="animation-delay:0.44s"><rect x="24" y="170" width="10" height="10" rx="3" fill="#1baf7a"/><text class="lbl" x="42" y="180">Python</text><text class="val" x="42" y="199">2.9%</text></g>
+<g class="fade" style="animation-delay:0.51s"><rect x="224" y="170" width="10" height="10" rx="3" fill="#eda100"/><text class="lbl" x="242" y="180">CSS</text><text class="val" x="242" y="199">2.5%</text></g>
+<g class="fade" style="animation-delay:0.58s"><rect x="24" y="214" width="10" height="10" rx="3" fill="#e87ba4"/><text class="lbl" x="42" y="224">HTML</text><text class="val" x="42" y="243">0.7%</text></g>
+</svg>

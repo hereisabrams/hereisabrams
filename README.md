@@ -21,32 +21,33 @@ the green squares look like that.
 - 📄 **Document parsing (OCR)**, **voice agents** and a **Chrome extension** for loan officers
 - 🦾 **Adele**, a humanoid robot that answers mortgage questions at trade shows (yes, really)
 - 🗺️ On the side: **Hereabouts**, travel planning with route optimization, and an AI manga reader
+- 📊 **[github-profile-charts](https://github.com/hereisabrams/github-profile-charts)**: the charts below, as a zero-dependency GitHub Action you can drop into your own profile
 
 ## By the numbers
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Contribution stats" src="assets/stats-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-charts/stats-dark.svg">
+  <img alt="Contribution stats" src="profile-charts/stats-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/yearly-dark.svg">
-  <img alt="Contributions per year" src="assets/yearly-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-charts/yearly-dark.svg">
+  <img alt="Contributions per year" src="profile-charts/yearly-light.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/monthly-dark.svg">
-  <img alt="Contributions in the last 12 months" src="assets/monthly-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-charts/monthly-dark.svg">
+  <img alt="Contributions in the last 12 months" src="profile-charts/monthly-light.svg" width="49%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <img alt="Languages weighted by commits" src="assets/languages-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-charts/languages-dark.svg">
+  <img alt="Languages weighted by commits" src="profile-charts/languages-light.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/weekday-dark.svg">
-  <img alt="Contributions by weekday" src="assets/weekday-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-charts/weekday-dark.svg">
+  <img alt="Contributions by weekday" src="profile-charts/weekday-light.svg" width="49%">
 </picture>
 
 </div>
@@ -54,30 +55,30 @@ the green squares look like that.
 <details>
 <summary>The same numbers as a table</summary>
 
-<!-- STATS-TABLE:START -->
+<!-- PROFILE-CHARTS:START -->
 | Stat | Value |
 |---|---|
-| All-time contributions | 16,341 |
+| All-time contributions | 16,353 |
 | Contributions in 2020 | 1 |
 | Contributions in 2021 | 30 |
 | Contributions in 2022 | 728 |
 | Contributions in 2023 | 447 |
 | Contributions in 2024 | 1,244 |
 | Contributions in 2025 | 3,319 |
-| Contributions in 2026 | 10,572 |
-| Pull requests merged | 3,548 |
+| Contributions in 2026 | 10,584 |
+| Pull requests merged | 3,550 |
 | Longest streak | 34 days |
 | Current streak | 12 days |
 | Busiest day | 333 on Oct 28, 2026 |
 | Repositories contributed to | 22 |
-| Language: TypeScript | 53.0% |
-| Language: Python | 13.1% |
-| Language: CSS | 12.7% |
-| Language: HTML | 10.2% |
-| Language: JavaScript | 9.7% |
+| Language: JavaScript | 55.1% |
+| Language: TypeScript | 38.5% |
+| Language: Python | 2.9% |
+| Language: CSS | 2.5% |
+| Language: HTML | 0.7% |
 
 <sub>Last refreshed 2026-11-06.</sub>
-<!-- STATS-TABLE:END -->
+<!-- PROFILE-CHARTS:END -->
 
 </details>
 
@@ -111,5 +112,5 @@ the green squares look like that.
 ---
 
 <div align="center">
-<sub>Charts are drawn by <a href="scripts/generate.mjs">scripts/generate.mjs</a> and refreshed every day by a GitHub Action in this repo.</sub>
+<sub>Charts drawn by <a href="https://github.com/hereisabrams/github-profile-charts">github-profile-charts</a>, my zero-dependency stats action. Steal it.</sub>
 </div>
