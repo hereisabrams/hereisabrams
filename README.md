@@ -108,19 +108,6 @@ the green squares look like that.
 
 </div>
 
-## Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hereisabrams/hereisabrams/output/snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/hereisabrams/hereisabrams/output/snake.svg">
-</picture>
-
-<sub>Every square it eats is a day I did not touch grass.</sub>
-
-</div>
-
 ---
 
 <div align="center">
